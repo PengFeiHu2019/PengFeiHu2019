@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Metrics](https://metrics.lecoq.io/PengFeiHu2019?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PengFeiHu2019&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **PengFeiHu2019/PengFeiHu2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
