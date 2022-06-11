@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋  [![GitHub Actions Demo](https://github.com/PengFeiHu2019/PengFeiHu2019/actions/workflows/github-actions-demo.yml/badge.svg?branch=PengFeiHu2019-patch-1)](https://github.com/PengFeiHu2019/PengFeiHu2019/actions/workflows/github-actions-demo.yml)
 ![Metrics](https://metrics.lecoq.io/PengFeiHu2019?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PengFeiHu2019&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Actions Demo](https://github.com/PengFeiHu2019/PengFeiHu2019/actions/workflows/github-actions-demo.yml/badge.svg?branch=PengFeiHu2019-patch-1)](https://github.com/PengFeiHu2019/PengFeiHu2019/actions/workflows/github-actions-demo.yml)
+
 
 <!--
 **PengFeiHu2019/PengFeiHu2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
